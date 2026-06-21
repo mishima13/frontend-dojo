@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  max-width: 720px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #ebedf3;
+}
+h1 {
+  color: #2563eb;
+}
+h2 {
+  color: #1e40af;
+  margin-top: 40px;
+}
+
+.card-list {
+  display: flex;
+  gap: 16px;
+}
+.card {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 8px;
+  flex: 1;
+  text-align: center;
+}
